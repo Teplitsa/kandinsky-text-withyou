@@ -57,6 +57,8 @@
 * dog – Photo credit: zingpix via Visual Hunt /  CC BY
 * gathering – Photo credit: Adriatica! via Visualhunt.com /  CC BY-NC-SA
 * kidleg – Photo credit: JackVinson via VisualHunt.com   CC BY-NC-ND
+* palsy.jpg – Photo credit: Leucippus via VisualHunt.com /  CC BY-NC-SA
+
 
 
 
