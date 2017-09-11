@@ -59,6 +59,8 @@
 * kidleg – Photo credit: JackVinson via VisualHunt.com   CC BY-NC-ND
 * palsy.jpg – Photo credit: Leucippus via VisualHunt.com /  CC BY-NC-SA
 * blonde.jpg – Photo via Visual hunt
+* helpkids – Photo credit: BruceMatsunaga via Visualhunt /  CC BY
+
 
 
 
