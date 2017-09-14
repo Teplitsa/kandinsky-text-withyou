@@ -9,6 +9,6 @@ lead=""
 
 [content name=volunt-story]
 
-[shortcode name="knd_image_section" content="volunt-join" img="volunteer.jpg" title="Присоединяйтесь" text_place="ontop"]
+[shortcode name="knd_image_section" content="volun-join" img="robo.jpg" title="Присоединяйтесь" text_place="ontop"]
 
 [content name=volun-contact]
