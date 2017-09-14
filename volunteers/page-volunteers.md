@@ -1,6 +1,6 @@
 title="Волонтерство"  
 slug="volunteers"  
-lead="Присоединятесь к нам"  
+lead=""  
 +++
 
 [content name=volun-intro]
