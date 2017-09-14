@@ -6,7 +6,6 @@ lead="Эта страница содержит примеры элементов
 
 +++
 
-[content name=demo]
 
 [shortcode name="knd_key_phrase" content="demo-key" subtitle="Ключевая фраза"]
 
