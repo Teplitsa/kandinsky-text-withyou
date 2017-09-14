@@ -12,4 +12,4 @@ lead="Эта страница содержит примеры элементов
 
 [shortcode name="knd_image_section" content="demo-img" img="demo.jpg" title="Секция с изображением" text_place="ontop"]
 
-[shortcode name="knd_cta_section" content="demo-cta" subtitle="Присоединяйтесь" link="" button="Стать волонтером"]
+[shortcode name="knd_cta_section" content="demo-cta" subtitle="Присоединяйтесь" link="page/volunteers" button="Стать волонтером"]
