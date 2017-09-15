@@ -60,6 +60,7 @@
 * palsy.jpg – Photo credit: Leucippus via VisualHunt.com /  CC BY-NC-SA
 * blonde.jpg – Photo via Visual hunt
 * helpkids – Photo credit: BruceMatsunaga via Visualhunt /  CC BY
+* childaid – Photo credit: unicefukraine via Visualhunt
 
 
 
