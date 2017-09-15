@@ -12,6 +12,8 @@ lead="Благотворительный фонд помощи детям из �
 
 [content name=about]
 
+[shortcode name="knd_people_list" title="Наша команда" num="6"]
+
 [content name=about-reports]
 
 [content name=bankdetails]
