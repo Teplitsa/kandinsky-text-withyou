@@ -3,7 +3,7 @@ tags="Новости, Вельский район, сбор средств, де
 cat="cta_block"  
 thumb=""  
 lead="Пожертвовать"  
-url="/donate/"  
+url="/howtohelp/"  
 
 +++
 
