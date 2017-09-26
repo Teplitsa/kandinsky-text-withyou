@@ -1,5 +1,5 @@
 title="Кандинский"    
 thumb="partner-2.png"  
-lead="http://google.ru/"
+lead="https://knd.te-st.ru/"
 
 +++
